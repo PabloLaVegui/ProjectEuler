@@ -1,6 +1,6 @@
 # Problema 22
 #
-# Tenemos de un archivo que contiene más de 5000 nombres. Lo primero es
+# Tenemos un archivo que contiene más de 5000 nombres. Lo primero es
 # colocarlos en orden alfabético, luego se resuelve un valor alfabético
 # para cada nombre, que se multiplica por su posición en la lista para
 # obtener la puntuación del nombre.
